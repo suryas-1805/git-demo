@@ -1,1 +1,1 @@
-This is a demo text file.
+This is a demo text file. It is created in git-demo repository.
